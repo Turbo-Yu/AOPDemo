@@ -1,0 +1,13 @@
+D:\Projects\Redis\Demos\AOPDemo\AOPDemo\bin\Debug\AOPDemo.exe.config
+D:\Projects\Redis\Demos\AOPDemo\AOPDemo\bin\Debug\AOPDemo.exe
+D:\Projects\Redis\Demos\AOPDemo\AOPDemo\bin\Debug\AOPDemo.pdb
+D:\Projects\Redis\Demos\AOPDemo\AOPDemo\bin\Debug\NewAop.dll
+D:\Projects\Redis\Demos\AOPDemo\AOPDemo\bin\Debug\NewAop.pdb
+D:\Projects\Redis\Demos\AOPDemo\AOPDemo\obj\Debug\AOPDemo.csprojResolveAssemblyReference.cache
+D:\Projects\Redis\Demos\AOPDemo\AOPDemo\obj\Debug\AOPDemo.exe
+D:\Projects\Redis\Demos\AOPDemo\AOPDemo\obj\Debug\AOPDemo.pdb
+D:\Projects\Redis\Demos\AOPDemo\AOPDemo\bin\Debug\ServiceStack.dll
+D:\Projects\Redis\Demos\AOPDemo\AOPDemo\bin\Debug\ServiceStack.Interfaces.dll
+D:\Projects\Redis\Demos\AOPDemo\AOPDemo\bin\Debug\ServiceStack.ServiceInterface.dll
+D:\Projects\Redis\Demos\AOPDemo\AOPDemo\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Redis\Demos\AOPDemo\AOPDemo\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,9 @@
+D:\Projects\Redis\Demos\AOPDemo\NewAop\bin\Debug\NewAop.dll
+D:\Projects\Redis\Demos\AOPDemo\NewAop\bin\Debug\NewAop.pdb
+D:\Projects\Redis\Demos\AOPDemo\NewAop\obj\Debug\NewAop.dll
+D:\Projects\Redis\Demos\AOPDemo\NewAop\obj\Debug\NewAop.pdb
+D:\Projects\Redis\Demos\AOPDemo\NewAop\bin\Debug\ServiceStack.dll
+D:\Projects\Redis\Demos\AOPDemo\NewAop\bin\Debug\ServiceStack.Interfaces.dll
+D:\Projects\Redis\Demos\AOPDemo\NewAop\bin\Debug\ServiceStack.ServiceInterface.dll
+D:\Projects\Redis\Demos\AOPDemo\NewAop\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Redis\Demos\AOPDemo\NewAop\bin\Debug\Newtonsoft.Json.xml

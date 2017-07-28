@@ -1,0 +1,1553 @@
+{
+  "sitemap": {
+    "dtd": [
+      {
+        "name": "西门子中国",
+        "url": "http://www.siemens.com/answers/cn/zh/",
+        "nositeexplorer": true,
+        "dtd": [
+          {
+            "name": "工业自动化",
+            "url": "https://www.industry.siemens.com.cn/automation/cn/zh/Pages/Default.aspx",
+            "nositeexplorer": true
+          },
+          {
+            "name": "驱动技术",
+            "url": "https://www.industry.siemens.com.cn/drives/cn/zh/Pages/Default.aspx",
+            "nositeexplorer": true
+          },
+          {
+            "name": "客户服务",
+            "url": "https://www.industry.siemens.com.cn/home/cn/zh/customer-service/Pages/Default.aspx",
+            "nositeexplorer": true
+          },
+          {
+            "name": "冶金技术",
+            "url": "https://www.industry.siemens.com.cn/industrysolutions/cn/zh/metals/Pages/metals.aspx",
+            "nositeexplorer": true
+          },
+          {
+            "name": "行业市场解决方案",
+            "url": "http://www.industry.siemens.com.cn/verticals/cn/zh/Pages/Default.aspx",
+            "nositeexplorer": true
+          },
+          {
+            "name": "工业支持中心",
+            "url": "https://www.industry.siemens.com.cn/topics/cn/zh/service-support/Pages/",
+            "dtd": [
+              {
+                "name": "工业支持中心",
+                "url": "https://www.industry.siemens.com.cn/topics/cn/zh/service-support/Pages/",
+                "nobreadcrumb": true,
+                "nositeexplorer": true
+              },
+              {
+                "name": "我的支持中心",
+                "url": "/mysupport/index.aspx",
+                "dtd": [
+                  {
+                    "name": "我的收藏夹",
+                    "url": "/club/bbs/myfavorite_all.aspx",
+                    "dtd": [
+                      {
+                        "name": "下载中心收藏夹",
+                        "url": "/club/bbs/myfavorite_download.aspx",
+                        "nobreadcrumb": false
+                      },
+                      {
+                        "name": "技术论坛收藏夹",
+                        "url": "/club/bbs/myfavorite.aspx",
+                        "nobreadcrumb": false
+                      },
+                      {
+                        "name": "找答案收藏夹",
+                        "url": "/club/bbs/myfavorite_answer.aspx",
+                        "nobreadcrumb": false
+                      },
+                      {
+                        "name": "视频学习中心收藏夹",
+                        "url": "/club/bbs/myfavorite_elearning.aspx",
+                        "nobreadcrumb": false
+                      }
+                    ]
+                  },
+                  {
+                    "name": "我的找答案",
+                    "url": "/mysupport/redirect_user_score.aspx",
+                    "dtd": [
+                      {
+                        "name": "我的找答案信息",
+                        "url": "/service/answer/user_score.aspx",
+                        "nositeexplorer": true
+                      },
+                      {
+                        "name": "我的提问",
+                        "url": "/service/answer/user_myquestion.aspx"
+                      },
+                      {
+                        "name": "我的回答",
+                        "url": "/service/answer/user_myanswer.aspx"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "我的技术论坛",
+                    "url": "/mysupport/redirect_user_disp.aspx",
+                    "dtd": [
+                      {
+                        "name": "我的论坛信息",
+                        "url": "/club/bbs/user_disp.aspx",
+                        "nobreadcrumb": false,
+                        "nositeexplorer": true
+                      },
+                      {
+                        "name": "我的论坛设置",
+                        "url": "/club/bbs/myview.aspx",
+                        "nobreadcrumb": false
+                      },
+                      {
+                        "name": "我的好友",
+                        "url": "/club/usr/friends_list.aspx",
+                        "nobreadcrumb": false
+                      },
+                      {
+                        "name": "添加好友",
+                        "url": "/club/usr/friends_add.aspx",
+                        "nobreadcrumb": false,
+                        "notshowindiv": true
+                      },
+                      {
+                        "name": "我发的帖子",
+                        "url": "/club/bbs/mypost.aspx",
+                        "nobreadcrumb": false
+                      },
+                      {
+                        "name": "我跟的帖子",
+                        "url": "/club/bbs/myreply.aspx",
+                        "nobreadcrumb": false
+                      },
+                      {
+                        "name": "我的精华帖",
+                        "url": "/club/bbs/post_elite_disp.aspx",
+                        "nobreadcrumb": false
+                      },
+                      {
+                        "name": "我推荐的帖子",
+                        "url": "/club/bbs/mytoprecommend.aspx",
+                        "nobreadcrumb": false
+                      },
+                      {
+                        "name": "我发的故事",
+                        "url": "/club/bbs/mystory.aspx",
+                        "nobreadcrumb": false
+                      },
+                      {
+                        "name": "我发的帖子历史数据",
+                        "url": "/club/bbs/mypost_history.aspx",
+                        "nobreadcrumb": false,
+                        "nositeexplorer": true
+                      },
+                      {
+                        "name": "我跟的帖子历史数据",
+                        "url": "/club/bbs/myreply_history.aspx",
+                        "nobreadcrumb": false,
+                        "nositeexplorer": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "我的工程师故事",
+                    "url": "/service/engineerstory/mysupport_storylistnull.aspx",
+                    "dtd": [
+                      {
+                        "name": "我的故事",
+                        "url": "/service/engineerstory/mysupport_storylist.aspx"
+                      },
+                      {
+                        "name": "我的留言",
+                        "url": "/service/engineerstory/mysupport_commentlist.aspx"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "注册信息管理",
+                    "url": "/mysupport/redirect_modify.aspx",
+                    "dtd": [
+                      {
+                        "name": "修改注册信息",
+                        "url": "/club/usr/modify.aspx",
+                        "nobreadcrumb": false,
+                        "nositeexplorer": true
+                      },
+                      {
+                        "name": "修改Email",
+                        "url": "/club/usr/modifyemail.aspx",
+                        "nobreadcrumb": false
+                      },
+                      {
+                        "name": "修改密码",
+                        "url": "/club/usr/modifypwd.aspx",
+                        "nobreadcrumb": false
+                      },
+                      {
+                        "name": "找回密码",
+                        "url": "/club/usr/userresetpwd.aspx",
+                        "nobreadcrumb": false
+                      },
+                      {
+                        "name": "用户注册",
+                        "url": "/club/usr/briefregistration.aspx"
+                      },
+                      {
+                        "name": "激活邮件",
+                        "url": "/club/usr/noactivationreg.aspx"
+                      },
+                      {
+                        "name": "注册成功",
+                        "url": "/club/usr/activationreg.aspx"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "我的收件箱",
+                    "url": "/club/usr/friends_msgmain.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "发件箱",
+                    "url": "/club/usr/friends_sendmain.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "邮件夹管理",
+                    "url": "/club/usr/friends_mailboxfolder.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "我的消息管理",
+                    "url": "/club/usr/friends_msgfolder.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "公告列表",
+                    "url": "/mysupport/announcement_more.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "url": "/mysupport/announcement_content1.aspx"
+                  },
+                  {
+                    "url": "/mysupport/announcement_content.aspx"
+                  },
+                  {
+                    "name": "温馨祝福",
+                    "url": "/mysupport/blessinglist.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "祝福",
+                    "url": "/mysupport/blessing_preview.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "消息",
+                    "url": "/club/usr/friends_viewmsg.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "成就展示",
+                    "url": "/club/usr/effort.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "我的售后服务",
+                    "url": "/mysupport/redirect_input_com.aspx",
+                    "dtd": [
+                      {
+                        "name": "在线填写服务需求",
+                        "url": "/service/SRP_internet/input_Com.asp",
+                        "nobreadcrumb": false
+                      },
+                      {
+                        "name": "服务需求概览",
+                        "url": "/service/SRP_internet/SRP_OverView.asp",
+                        "nobreadcrumb": false
+                      },
+                      {
+                        "name": "历史记录搜索",
+                        "url": "/service/SRP_internet/SRP_Search_user.asp",
+                        "nobreadcrumb": false
+                      },
+                      {
+                        "name": "服务进程查询",
+                        "url": "/service/inquiry/",
+                        "nobreadcrumb": false
+                      },
+                      {
+                        "name": "最终用户管理品",
+                        "url": "/service/SRP_internet/SRP_Customer_List.asp",
+                        "nobreadcrumb": false
+                      }
+                    ]
+                  },
+                  {
+                    "name": "我的奖励",
+                    "url": "/mysupport/redirect_award.aspx",
+                    "nobreadcrumb": true,
+                    "dtd": [
+                      {
+                        "name": "兑奖",
+                        "url": "/club/bbs/award.aspx",
+                        "nobreadcrumb": false,
+                        "nositeexplorer": true
+                      },
+                      {
+                        "name": "我的兑奖记录",
+                        "url": "/club/bbs/awardlog.aspx",
+                        "nobreadcrumb": false
+                      },
+                      {
+                        "name": "我的获奖通知",
+                        "url": "/club/usr/friends_msgmain.aspx",
+                        "nobreadcrumb": false
+                      }
+                    ]
+                  },
+                  {
+                    "name": "系统管理",
+                    "url": "/mysupport/manage.aspx",
+                    "nochild": true,
+                    "notshowindiv": true,
+                    "nositeexplorer": true,
+                    "dtd": [
+                      {
+                        "name": "用户信息统计",
+                        "url": "/mysupport/userstat.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "标签管理",
+                        "url": "/mysupport/tagmgmt.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "术语管理",
+                        "url": "/mysupport/tremmgmt.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "标签列表",
+                        "url": "/mysupport/provisionallistoflibraries.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "近义词管理",
+                        "url": "/mysupport/synonymmgmt.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "版区标签管理",
+                        "url": "/mysupport/tagboards.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "近义词列表",
+                        "url": "/mysupport/associatedlist.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "N元分词管理",
+                        "url": "/mysupport/participlemgmt.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "停词管理",
+                        "url": "/mysupport/unitagstopmgmt.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "热门标签统计功能",
+                        "url": "/mysupport/hottagstatistics.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "导出带有标签的内容",
+                        "url": "/mysupport/tagcontent.aspx",
+                        "nobreadcrumb": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "关于西币",
+                    "url": "/mysupport/awardhelp.aspx"
+                  },
+                  {
+                    "name": "老用户必读",
+                    "url": "/mysupport/awardhelp1.aspx"
+                  },
+                  {
+                    "name": "登录",
+                    "url": "/mysupport/login.aspx"
+                  },
+                  {
+                    "name": "如何升级",
+                    "url": "/mysupport/myvipinfo.aspx"
+                  },
+                  {
+                    "name": "我的权限",
+                    "url": "/mysupport/vipprivilege.aspx"
+                  },
+                  {
+                    "name": "关注的人",
+                    "url": "/club/usr/myfocuslist.aspx"
+                  },
+                  {
+                    "name": "我的粉丝",
+                    "url": "/club/usr/myfanslist.aspx"
+                  },
+                  {
+                    "name": "我的黑名单",
+                    "url": "/club/usr/myblacklist.aspx"
+                  },
+                  {
+                    "name": "我的关注",
+                    "url": "/club/bbs/userfocusactive.aspx"
+                  },
+                  {
+                    "name": "我的产品",
+                    "url": "/club/bbs/userfocusprdactive.aspx"
+                  },
+                  {
+                    "name": "他关注的人",
+                    "url": "/club/usr/hisfocuslist.aspx"
+                  },
+                  {
+                    "name": "他的粉丝",
+                    "url": "/club/usr/hisfanslist.aspx"
+                  },
+                  {
+                    "name": "他的来访记录",
+                    "url": "/club/usr/visitlist.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "隐私设置",
+                    "url": "/club/usr/myprivacy.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "最具人气榜",
+                    "url": "/club/bbs/fanstoplist.aspx"
+                  },
+                  {
+                    "name": "知音榜",
+                    "url": "/club/bbs/eachothertoplist.aspx"
+                  },
+                  {
+                    "name": "新晋用户榜",
+                    "url": "/club/bbs/newfocuslist.aspx"
+                  },
+                  {
+                    "name": "关注产品",
+                    "url": "/club/usr/modifyfocusprd.aspx"
+                  }
+                ]
+              },
+              {
+                "name": "下载中心",
+                "url": "/download/default.aspx",
+                "dtd": [
+                  {
+                    "name": "搜索结果页",
+                    "url": "/download/searchresult.aspx"
+                  },
+                  {
+                    "name": "公告列表",
+                    "url": "/download/noticelist.aspx"
+                  },
+                  {
+                    "name": "最新文档",
+                    "url": "/download/recentupdated.aspx"
+                  },
+                  {
+                    "name": "下载排行",
+                    "url": "/download/topdownload.aspx"
+                  },
+                  {
+                    "name": "订阅页",
+                    "url": "/download/subscribemessage.aspx"
+                  },
+                  {
+                    "name": "查看他人信息",
+                    "url": "/club/bbs/user_dc_other_favourite.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  }
+                ]
+              },
+              {
+                "name": "全球技术资源",
+                "url": "https://support.industry.siemens.com/cs/cn/zh/ps"
+              },
+              {
+                "name": "视频学习中心",
+                "url": "/service/elearning/cn/Default.aspx",
+                "dtd": [
+                  {
+                    "name": "首页",
+                    "url": "/service/elearning/default.aspx",
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "我的测试单元",
+                    "url": "/mysupport/redirect_user_contest.aspx",
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "全部视频",
+                    "url": "/service/elearning/Vdlist.html"
+                  },
+                  {
+                    "name": "推荐视频",
+                    "url": "/service/elearning/Rdvideos.html"
+                  },
+                  {
+                    "name": "热门视频",
+                    "url": "/service/elearning/Hot.html"
+                  },
+                  {
+                    "name": "最新视频",
+                    "url": "/service/elearning/Late.html"
+                  },
+                  {
+                    "name": "测试单元",
+                    "url": "/service/elearning/cn/Contest/Default.aspx"
+                  },
+                  {
+                    "name": "查看他人信息",
+                    "url": "/club/bbs/user_elearing_other_favourite.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  }
+                ]
+              },
+              {
+                "name": "产品入门新手必读",
+                "url": "/productportal/default.aspx",
+                "dtd": [
+                  {
+                    "name": "S7-200产品入门新手必读",
+                    "url": "/productportal/prods/s7-200-portal/default.aspx"
+                  },
+                  {
+                    "name": "PCS 7产品入门新手必读",
+                    "url": "/productportal/prods/pcs7/default.aspx"
+                  },
+                  {
+                    "name": "WinCC产品入门新手必读",
+                    "url": "/productportal/prods/wincc/default.aspx"
+                  },
+                  {
+                    "name": "MICROMASTER 420/430/440产品入门新手必读",
+                    "url": "/productportal/prods/MM4/Default.aspx"
+                  },
+                  {
+                    "name": "SINUMERIK 808D产品入门新手必读",
+                    "url": "/productportal/prods/808d/default.aspx"
+                  },
+                  {
+                    "name": "运动控制标准产品产品入门新手必读",
+                    "url": "/productportal/prods/m3/default.aspx"
+                  }
+                ]
+              },
+              {
+                "name": "找答案",
+                "url": "/service/answer/Default.aspx",
+                "dtd": [
+                  {
+                    "name": "首页",
+                    "url": "/service/answer/default.aspx",
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "精华问答",
+                    "url": "/service/answer/question_more.aspx?t=4",
+                    "nobreadcrumb": false
+                  },
+                  {
+                    "name": "待解决问题",
+                    "url": "/service/answer/question_more.aspx?t=0"
+                  },
+                  {
+                    "name": "新解决问题",
+                    "url": "/service/answer/question_more.aspx?t=3"
+                  },
+                  {
+                    "name": "快到期问题",
+                    "url": "/service/answer/question_more.aspx?t=6"
+                  },
+                  {
+                    "name": "公告区",
+                    "url": "/service/answer/announcement_more.aspx"
+                  },
+                  {
+                    "name": "奖励专区",
+                    "url": "/service/answer/award_more.aspx"
+                  },
+                  {
+                    "name": "答侠社区",
+                    "url": "/service/answer/axia_more.aspx"
+                  },
+                  {
+                    "name": "总积分排行榜",
+                    "url": "/service/answer/allp_list.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "上周积分上升排行榜",
+                    "url": "/service/answer/weekp_list.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "搜索答案",
+                    "url": "/service/answer/adv_search.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "提问",
+                    "url": "/service/answer/question.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "夺魁达人榜",
+                    "url": "/service/answer/allstar_list.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "历届夺魁答侠",
+                    "url": "/service/answer/weekstar_list.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "帮助",
+                    "url": "/service/answer/rules.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "url": "/service/answer/kexpert_list.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "url": "/service/answer/zhishi_publish_apply.aspx"
+                  },
+                  {
+                    "url": "/service/answer/question_more.aspx"
+                  },
+                  {
+                    "url": "/service/answer/zhishi_add1.aspx"
+                  },
+                  {
+                    "url": "/service/answer/category.aspx"
+                  },
+                  {
+                    "url": "/service/answer/solution.aspx"
+                  },
+                  {
+                    "url": "/service/answer/tobe_solution.aspx"
+                  },
+                  {
+                    "url": "/service/answer/answer_commit.aspx"
+                  },
+                  {
+                    "url": "/service/answer/announcement_content.aspx"
+                  },
+                  {
+                    "url": "/service/answer/award_content.aspx"
+                  },
+                  {
+                    "url": "/service/answer/axia_content.aspx"
+                  },
+                  {
+                    "url": "/service/answer/zhishi_view.aspx"
+                  },
+                  {
+                    "name": "制作知识",
+                    "url": "/service/answer/zhishi_preview.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "查看他人信息",
+                    "url": "/service/answer/other-nickname.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "查看他人信息",
+                    "url": "/service/answer/userinfo.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "url": "/service/answer/question_next.aspx"
+                  },
+                  {
+                    "url": "/service/answer/questionin.aspx"
+                  },
+                  {
+                    "url": "/service/answer/question_collect.aspx"
+                  },
+                  {
+                    "url": "/service/answer/questionin_next.aspx"
+                  },
+                  {
+                    "name": "提问",
+                    "url": "/service/answer/question_commit.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "url": "/service/answer/question_addreward.aspx"
+                  },
+                  {
+                    "url": "/service/answer/question_addrewardp.aspx"
+                  },
+                  {
+                    "url": "/service/answer/question_answercomment.aspx"
+                  },
+                  {
+                    "url": "/service/answer/question_mcategory.aspx"
+                  },
+                  {
+                    "url": "/service/answer/question_mcategoryp.aspx"
+                  },
+                  {
+                    "url": "/service/answer/question_relevant.aspx"
+                  },
+                  {
+                    "url": "/service/answer/zhishi_edit.aspx"
+                  },
+                  {
+                    "url": "/service/answer/zhishi_add2.aspx"
+                  },
+                  {
+                    "url": "/service/answer/zhishi_column_list.aspx"
+                  },
+                  {
+                    "url": "/service/answer/allstar_question_list.aspx"
+                  },
+                  {
+                    "url": "/service/answer/bac_list.aspx"
+                  },
+                  {
+                    "url": "/service/answer/gift2008.aspx"
+                  },
+                  {
+                    "name": "新注册用户问题审核",
+                    "url": "/service/answer/questionaudit.aspx"
+                  },
+                  {
+                    "name": "系统管理",
+                    "url": "/service/answer/_admin/default.aspx",
+                    "roles": "1,3,5,7",
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "系统管理",
+                    "url": "/service/answer/_admin/default.aspx",
+                    "nositeexplorer": true,
+                    "nochild": true,
+                    "notshowindiv": true,
+                    "dtd": [
+                      {
+                        "name": "标签管理",
+                        "url": "/service/answer/_admin/admin_tag.aspx"
+                      },
+                      {
+                        "name": "标签管理",
+                        "url": "/service/answer/_admin/admin_tag_search.aspx"
+                      },
+                      {
+                        "name": "标签管理",
+                        "url": "/service/answer/_admin/admin_tag_add.aspx"
+                      },
+                      {
+                        "name": "标签管理",
+                        "url": "/service/answer/_admin/admin_tag_modify.aspx"
+                      },
+                      {
+                        "name": "管理分类",
+                        "url": "/service/answer/_admin/admin_category.aspx"
+                      },
+                      {
+                        "name": "管理分类",
+                        "url": "/service/answer/_admin/admin_classmgr.aspx"
+                      },
+                      {
+                        "name": "管理答侠社区公告",
+                        "url": "/service/answer/_admin/admin_axia.aspx"
+                      },
+                      {
+                        "name": "管理答侠社区公告",
+                        "url": "/service/answer/_admin/admin_addaxia.aspx"
+                      },
+                      {
+                        "name": "管理答侠社区公告",
+                        "url": "/service/answer/_admin/admin_editaxia.aspx"
+                      },
+                      {
+                        "name": "管理答侠社区公告",
+                        "url": "/service/answer/_admin/admin_axia_preview.aspx"
+                      },
+                      {
+                        "name": "管理奖励专区公告",
+                        "url": "/service/answer/_admin/admin_award.aspx"
+                      },
+                      {
+                        "name": "管理奖励专区公告",
+                        "url": "/service/answer/_admin/admin_addaward.aspx"
+                      },
+                      {
+                        "name": "管理奖励专区公告",
+                        "url": "/service/answer/_admin/admin_editaward.aspx"
+                      },
+                      {
+                        "name": "管理奖励专区公告",
+                        "url": "/service/answer/_admin/admin_award_preview.aspx"
+                      },
+                      {
+                        "name": "管理公告区公告",
+                        "url": "/service/answer/_admin/admin_bulletin.aspx"
+                      },
+                      {
+                        "name": "管理公告区公告",
+                        "url": "/service/answer/_admin/admin_addbulletin.aspx"
+                      },
+                      {
+                        "name": "管理公告区公告",
+                        "url": "/service/answer/_admin/admin_editbulletin.aspx"
+                      },
+                      {
+                        "name": "管理公告区公告",
+                        "url": "/service/answer/_admin/admin_bulletin_preview.aspx"
+                      },
+                      {
+                        "name": "积分规则",
+                        "url": "/MySupport/ScoreRulesManager.aspx?platform=4"
+                      },
+                      {
+                        "name": "词语过滤",
+                        "url": "/service/answer/_admin/admin_filter.aspx"
+                      },
+                      {
+                        "name": "管理等级",
+                        "url": "/service/answer/_admin/admin_rank.aspx"
+                      },
+                      {
+                        "name": "管理头衔",
+                        "url": "/service/answer/_admin/admin_title.aspx"
+                      },
+                      {
+                        "name": "问题高级检索",
+                        "url": "/service/answer/_admin/admin_aq.aspx"
+                      },
+                      {
+                        "name": "问题查询和批量删除",
+                        "url": "/service/answer/_admin/admin_a_q.aspx"
+                      },
+                      {
+                        "name": "报告检索",
+                        "url": "/service/answer/_admin/admin_report.aspx"
+                      },
+                      {
+                        "name": "问答统计",
+                        "url": "/service/answer/_admin/admin_qs.aspx"
+                      },
+                      {
+                        "name": "最佳答案统计",
+                        "url": "/service/answer/_admin/admin_bs.aspx"
+                      },
+                      {
+                        "name": "问题跟踪管理",
+                        "url": "/service/answer/_admin/admin_questiontrace.aspx"
+                      },
+                      {
+                        "name": "精华问答统计",
+                        "url": "/service/answer/_admin/admin_belite.aspx"
+                      },
+                      {
+                        "name": "高端用户推荐统计",
+                        "url": "/service/answer/_admin/admin_brecommend.aspx"
+                      },
+                      {
+                        "name": "专家咨询问题统计",
+                        "url": "/service/answer/_admin/admin_questionforexpert.aspx"
+                      },
+                      {
+                        "name": "管理隐藏知识",
+                        "url": "/service/answer/_admin/admin_zhishi_list.aspx"
+                      },
+                      {
+                        "name": "知识掌门人特批管理",
+                        "url": "/service/answer/_admin/admin_zhishi_publisher.aspx"
+                      },
+                      {
+                        "name": "知识掌门人特批管理",
+                        "url": "/service/answer/_admin/admin_zhishi_publisher_refuse.aspx"
+                      },
+                      {
+                        "name": "知识统计",
+                        "url": "/service/answer/_admin/admin_knowledgestat.aspx"
+                      },
+                      {
+                        "name": "管理专家短信值班",
+                        "url": "/service/answer/_admin/admin_expertonlinesendsms.aspx"
+                      },
+                      {
+                        "name": "管理专家短信值班",
+                        "url": "/service/answer/_admin/admin_expertonlinesendsms_form.aspx"
+                      },
+                      {
+                        "name": "管理用户",
+                        "url": "/service/answer/_admin/admin_user.aspx"
+                      },
+                      {
+                        "name": "查看用户详细信息",
+                        "url": "/service/answer/_admin/admin_user_detail.aspx"
+                      },
+                      {
+                        "name": "管理夺魁答侠",
+                        "url": "/service/answer/_admin/admin_weekstar.aspx"
+                      },
+                      {
+                        "name": "管理快侠奖励",
+                        "url": "/service/answer/_admin/admin_weekSpeed.aspx"
+                      },
+                      {
+                        "name": "管理热心答侠",
+                        "url": "/service/answer/_admin/weekdaren_list.aspx"
+                      },
+                      {
+                        "name": "管理分类专家",
+                        "url": "/service/answer/_admin/admin_classexpert.aspx"
+                      },
+                      {
+                        "name": "管理分类专家",
+                        "url": "/service/answer/_admin/admin_classexpert_cm.aspx"
+                      },
+                      {
+                        "name": "管理分类专家",
+                        "url": "/service/answer/_admin/admin_classexpertp.aspx"
+                      },
+                      {
+                        "name": "管理分类专家",
+                        "url": "/service/answer/_admin/admin_userexpert.aspx"
+                      },
+                      {
+                        "name": "管理置评专家",
+                        "url": "/service/answer/_admin/admin_engineerlist.aspx"
+                      },
+                      {
+                        "name": "管理置评专家",
+                        "url": "/service/answer/_admin/admin_engineer.aspx"
+                      },
+                      {
+                        "name": "管理专家在线值班",
+                        "url": "/service/answer/_admin/admin_expertonlinedate.aspx"
+                      },
+                      {
+                        "name": "管理专家在线值班",
+                        "url": "/service/answer/_admin/admin_expertonlinedate_form.aspx"
+                      },
+                      {
+                        "name": "用户活动统计",
+                        "url": "/service/answer/_admin/admin_us.aspx"
+                      },
+                      {
+                        "name": "用户级别统计",
+                        "url": "/service/answer/_admin/admin_js.aspx"
+                      },
+                      {
+                        "name": "专家置评统计",
+                        "url": "/service/answer/_admin/admin_es.aspx"
+                      },
+                      {
+                        "name": "产品版区点击量统计",
+                        "url": "/service/answer/sp/categorylog_search.aspx"
+                      },
+                      {
+                        "name": "关键字搜索日志",
+                        "url": "/service/answer/sp/report_search.aspx"
+                      },
+                      {
+                        "name": "问题解决周期查询",
+                        "url": "/service/answer/sp/solution_search.aspx"
+                      },
+                      {
+                        "name": "用户收藏统计",
+                        "url": "/service/answer/_admin/admin_userfavoritestat.aspx"
+                      },
+                      {
+                        "name": "用户收藏统计",
+                        "url": "/service/answer/_admin/admin_userfavoritetags.aspx"
+                      },
+                      {
+                        "name": "特殊兑奖用户管理",
+                        "url": "/service/answer/_admin/admin_hanseluser.aspx"
+                      },
+                      {
+                        "name": "特殊兑奖用户管理",
+                        "url": "/service/answer/_admin/admin_hansel.aspx"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "技术论坛",
+                "url": "/club/bbs/welcome.aspx",
+                "dtd": [
+                  {
+                    "name": "论坛公告",
+                    "url": "/club/bbs/announcement_more.aspx"
+                  },
+                  {
+                    "name": "用户指南",
+                    "url": "/club/bbs/bbs_help.aspx"
+                  },
+                  {
+                    "name": "用户排行榜",
+                    "url": "/club/bbs/top.aspx"
+                  },
+                  {
+                    "name": "热门帖子",
+                    "url": "/club/bbs/bbs_hot.aspx"
+                  },
+                  {
+                    "name": "最高收藏帖",
+                    "url": "/club/bbs/bbs_favour.aspx"
+                  },
+                  {
+                    "name": "精华帖",
+                    "url": "/club/bbs/elites.aspx"
+                  },
+                  {
+                    "name": "高赞帖",
+                    "url": "/club/bbs/likes.aspx"
+                  },
+                  {
+                    "name": "最新发帖",
+                    "url": "/club/bbs/bbs_latest.aspx"
+                  },
+                  {
+                    "name": "分享帖",
+                    "url": "/club/bbs/shares.aspx"
+                  },
+                  {
+                    "name": "高端推荐帖",
+                    "url": "/club/bbs/article_recommend_list.aspx"
+                  },
+                  {
+                    "name": "在线用户列表",
+                    "url": "/club/bbs/admin_user_aall.aspx"
+                  },
+                  {
+                    "name": "论坛管理",
+                    "url": "/club/bbs/manage.aspx",
+                    "nositeexplorer": true
+                  },
+                  {
+                    "name": "管理",
+                    "url": "/club/bbs/manage.aspx",
+                    "nochild": true,
+                    "notshowindiv": true,
+                    "nositeexplorer": true,
+                    "dtd": [
+                      {
+                        "name": "用户行为记录",
+                        "url": "/club/usr/statistic.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "添加管理员",
+                        "url": "/club/usr/addadmin.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "版面",
+                        "url": "/club/bbs/board_list.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "添加版面",
+                        "url": "/club/bbs/board_add_form.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "版面修改",
+                        "url": "/club/bbs/board_modi_form.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "帖子分类管理",
+                        "url": "/club/bbs/articlesort_list.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "添加帖子分类",
+                        "url": "/club/bbs/add_asort.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "公告",
+                        "url": "/club/bbs/admin_bulletin.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "添加公告",
+                        "url": "/club/bbs/admin_addbulletin.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "预览公告",
+                        "url": "/club/bbs/admin_bulletin_preview.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "编辑公告",
+                        "url": "/club/bbs/admin_editbulletin.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "上传用户",
+                        "url": "/club/bbs/admin_upload.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "重设密码",
+                        "url": "/club/usr/resetpwd.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "温馨祝福",
+                        "url": "/club/bbs/admin_blessing.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "添加祝福",
+                        "url": "/club/bbs/admin_addblessing.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "编辑祝福",
+                        "url": "/club/bbs/admin_editblessing.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "预览温馨祝福",
+                        "url": "/club/bbs/admin_blessing_preview.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "金牌版主",
+                        "url": "/club/usr/boardmasterlist.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "增加论坛积分",
+                        "url": "/club/usr/adduserscore.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "修改用户金币或宝石",
+                        "url": "/club/bbs/award/userpoint_form.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "用户信息统计",
+                        "url": "/club/bbs/admin_bbs_user.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "用户统计结果",
+                        "url": "/club/usr/result.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "用户行为记录查询结果",
+                        "url": "/club/usr/result_stat.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "统计用户信息",
+                        "url": "/club/usr/index.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "下载报表",
+                        "url": "/club/usr/report.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "用户统计结果",
+                        "url": "/club/bbs/admin_bbs_user_send.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "帖子统计",
+                        "url": "/club/bbs/admin_index.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "版区活跃用户统计",
+                        "url": "/club/bbs/admin_board_user.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "用户活跃论坛列表",
+                        "url": "/club/bbs/admin_user_alist.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "帖子恢复删除",
+                        "url": "/club/bbs/admin_post_del_list.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "帖子查询",
+                        "url": "/club/bbs/admin_bbs_stat_send.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "帖子移动",
+                        "url": "/club/bbs/admin_post_move_list.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "论坛通知",
+                        "url": "/club/usr/notice_boxmain.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "其他管理员通知",
+                        "url": "/club/usr/notice_boxother.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "草稿箱",
+                        "url": "/club/usr/notice_boxunpost.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "我的分类",
+                        "url": "/club/usr/notice_group.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "修改分类",
+                        "url": "/club/bbs/modify_asort.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "写新通知",
+                        "url": "/club/usr/sendnotice.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "管理我的联系人",
+                        "url": "/club/usr/notice_receivergroup.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "添加备忘录",
+                        "url": "/club/bbs/memo_add_form.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "编辑备忘",
+                        "url": "/club/bbs/memo_modi_form.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "奖品",
+                        "url": "/club/bbs/award/award_list.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "添加奖品",
+                        "url": "/club/bbs/award/award_add_form.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "编辑奖品",
+                        "url": "/club/bbs/award/award_modify_form.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "兑奖",
+                        "url": "/club/bbs/award/awardlog.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "处理兑奖申请",
+                        "url": "/club/bbs/award/awardlog_modify_form.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "特殊奖品",
+                        "url": "/club/bbs/special_award/award_list1.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "添加特殊奖品",
+                        "url": "/club/bbs/special_award/award_add_form.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "修改特殊奖品",
+                        "url": "/club/bbs/special_award/award_modify_form.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "特殊兑奖",
+                        "url": "/club/bbs/special_award/awardlog1.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "详细兑奖信息",
+                        "url": "/club/bbs/special_award/awarddetail.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "用户注册信息",
+                        "url": "/club/usr/detail.aspx",
+                        "nobreadcrumb": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "版主名录",
+                    "url": "/club/bbs/top_gmaster.aspx",
+                    "nobreadcrumb": true
+                  },
+                  {
+                    "name": "版区季度标兵名录",
+                    "url": "/club/bbs/top_professional.aspx",
+                    "nobreadcrumb": true
+                  },
+                  {
+                    "name": "精华之星名录",
+                    "url": "/club/bbs/top_elitestar.aspx",
+                    "nobreadcrumb": true
+                  },
+                  {
+                    "name": "查看他人信息",
+                    "url": "/club/bbs/user_disp_other.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  },
+                  {
+                    "url": "/club/bbs/announcement_content.aspx"
+                  },
+                  {
+                    "url": "/club/bbs/bbs.aspx"
+                  },
+                  {
+                    "url": "/club/bbs/bbs_story.aspx"
+                  },
+                  {
+                    "url": "/club/bbs/aboutexpert.aspx"
+                  },
+                  {
+                    "url": "/club/bbs/technologistboard.aspx"
+                  },
+                  {
+                    "url": "/club/bbs/boardbbs_favour.aspx"
+                  },
+                  {
+                    "url": "/club/bbs/boardbbs_hot.aspx"
+                  },
+                  {
+                    "url": "/club/bbs/bbs_elite.aspx"
+                  },
+                  {
+                    "url": "/club/bbs/post.aspx"
+                  },
+                  {
+                    "url": "/club/bbs/post_story.aspx"
+                  },
+                  {
+                    "url": "/club/bbs/hmi/bbs.aspx",
+                    "nobreadcrumb": true,
+                    "nochild": true,
+                    "notshowindiv": true
+                  },
+                  {
+                    "url": "/club/bbs/hmi/post.aspx",
+                    "nobreadcrumb": true,
+                    "nochild": true,
+                    "notshowindiv": true
+                  },
+                  {
+                    "url": "/club/bbs/hmi/postcontent.aspx",
+                    "nobreadcrumb": true,
+                    "nochild": true,
+                    "notshowindiv": true
+                  },
+                  {
+                    "url": "/club/bbs/bbs_history.aspx"
+                  },
+                  {
+                    "url": "/club/bbs/post_history.aspx"
+                  },
+                  {
+                    "name": "跟帖提醒",
+                    "url": "/club/bbs/NewReplyList.aspx",
+                    "nobreadcrumb": true,
+                    "nositeexplorer": true
+                  }
+                ]
+              },
+              {
+                "name": "咱工程师的故事",
+                "url": "/service/engineerstory/index.aspx",
+                "nochild": true,
+                "nositeexplorer": true,
+                "dtd": [
+                  {
+                    "name": "工程师的故事管理",
+                    "url": "/service/engineerstory/backstage/articleauditnull.aspx",
+                    "nochild": true,
+                    "notshowindiv": true,
+                    "nositeexplorer": true,
+                    "dtd": [
+                      {
+                        "name": "审核故事",
+                        "url": "/service/engineerstory/backstage/articleaudit.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "故事统计",
+                        "url": "/service/engineerstory/backstage/queryfilter.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "栏目管理",
+                        "url": "/service/engineerstory/backstage/managecolumns.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "积分设置",
+                        "url": "/service/engineerstory/backstage/setunitsorce.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "name": "故事统计",
+                        "url": "/service/engineerstory/backstage/queryresult.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "url": "/service/engineerstory/backstage/edittotalcolumn.aspx",
+                        "nobreadcrumb": true
+                      },
+                      {
+                        "url": "/service/engineerstory/backstage/eidtchildcolumn.aspx",
+                        "nobreadcrumb": true
+                      }
+                    ]
+                  },
+                  {
+                    "url": "/service/engineerstory/articlelist.aspx"
+                  },
+                  {
+                    "url": "/service/engineerstory/aboutexpert.aspx"
+                  },
+                  {
+                    "url": "/service/engineerstory/addcollect.aspx"
+                  },
+                  {
+                    "url": "/service/engineerstory/allstoryslist.aspx"
+                  },
+                  {
+                    "url": "/service/engineerstory/editarticle.aspx"
+                  },
+                  {
+                    "url": "/service/engineerstory/engineercontent.aspx"
+                  },
+                  {
+                    "url": "/service/engineerstory/hotlineengineerboard.aspx"
+                  },
+                  {
+                    "url": "/service/engineerstory/myfavoritesengineerstory.aspx"
+                  },
+                  {
+                    "url": "/service/engineerstory/newengineerboard.aspx"
+                  },
+                  {
+                    "url": "/service/engineerstory/replylist.aspx"
+                  },
+                  {
+                    "url": "/service/engineerstory/storylist.aspx"
+                  },
+                  {
+                    "url": "/service/engineerstory/technologistboard.aspx"
+                  }
+                ]
+              },
+              {
+                "name": "售后服务",
+                "url": "/service/myservice/Page/Default.aspx"
+              },
+              {
+                "name": "网络资源新手必读",
+                "url": "/mysupport/engineerresource/engineerresource.aspx"
+              },
+              {
+                "name": "高级搜索",
+                "url": "/service/search/default.aspx"
+              },
+              {
+                "name": "S7-200 Modbus 详解",
+                "url": "/service/article/s7-200/s7-200modbus/default.aspx",
+                "nobreadcrumb": true,
+                "nositeexplorer": true
+              },
+              {
+                "name": "S7-200 自由口通信 详解",
+                "url": "/service/article/s7-200/s7-200freeport/default.aspx",
+                "nobreadcrumb": true,
+                "nositeexplorer": true
+              },
+              {
+                "name": "授权码",
+                "url": "/mysupport/authorizationcode.aspx",
+                "nobreadcrumb": true,
+                "nositeexplorer": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
