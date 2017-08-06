@@ -1,5 +1,6 @@
 ﻿using AOPDemo.Business;
 using AOPDemo.ConvertHelper;
+using AOPDemo.RedisHelper;
 using NewAop;
 using System;
 using System.Collections.Generic;
@@ -20,7 +21,8 @@ namespace AOPDemo
             //var str = CatchTest.TryCatchTest();
             //Console.WriteLine(str);
             //XMLHelper.ConvertXmlSiteMap();
-            SiteMapRead.GetContent();
+            //SiteMapRead.GetContent();
+            RedisConfigInfo.GetConfig();
             Console.Read();
         }
 

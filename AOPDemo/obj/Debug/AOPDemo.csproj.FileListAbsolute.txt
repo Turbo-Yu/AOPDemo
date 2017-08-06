@@ -11,3 +11,16 @@ D:\Projects\Redis\Demos\AOPDemo\AOPDemo\bin\Debug\ServiceStack.Interfaces.dll
 D:\Projects\Redis\Demos\AOPDemo\AOPDemo\bin\Debug\ServiceStack.ServiceInterface.dll
 D:\Projects\Redis\Demos\AOPDemo\AOPDemo\bin\Debug\Newtonsoft.Json.dll
 D:\Projects\Redis\Demos\AOPDemo\AOPDemo\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\Git\AOPDemo\AOPDemo\bin\Debug\AOPDemo.exe.config
+F:\Projects\Git\AOPDemo\AOPDemo\bin\Debug\AOPDemo.exe
+F:\Projects\Git\AOPDemo\AOPDemo\bin\Debug\AOPDemo.pdb
+F:\Projects\Git\AOPDemo\AOPDemo\bin\Debug\NewAop.dll
+F:\Projects\Git\AOPDemo\AOPDemo\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\Git\AOPDemo\AOPDemo\bin\Debug\ServiceStack.dll
+F:\Projects\Git\AOPDemo\AOPDemo\bin\Debug\ServiceStack.Interfaces.dll
+F:\Projects\Git\AOPDemo\AOPDemo\bin\Debug\ServiceStack.ServiceInterface.dll
+F:\Projects\Git\AOPDemo\AOPDemo\bin\Debug\NewAop.pdb
+F:\Projects\Git\AOPDemo\AOPDemo\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\Git\AOPDemo\AOPDemo\obj\Debug\AOPDemo.csprojResolveAssemblyReference.cache
+F:\Projects\Git\AOPDemo\AOPDemo\obj\Debug\AOPDemo.exe
+F:\Projects\Git\AOPDemo\AOPDemo\obj\Debug\AOPDemo.pdb
