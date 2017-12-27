@@ -44,16 +44,16 @@ namespace AOPDemo.RedisHelper
                         para.ReadServerList = xn.SelectSingleNode("@value").InnerText;
                         break;
                     case "MaxWritePoolSize":
-                        para.MaxWritePoolSize = bool.Parse(xn.SelectSingleNode("@attribute").InnerText);
+                        para.MaxWritePoolSize = int.Parse(xn.SelectSingleNode("@attribute").InnerText);
                         break;
                     case "MaxReadPoolSize":
-                        para.MaxReadPoolSize = bool.Parse(xn.SelectSingleNode("@attribute").InnerText);
+                        para.MaxReadPoolSize = int.Parse(xn.SelectSingleNode("@attribute").InnerText);
                         break;
                     case "AutoStart":
                         para.AutoStart = bool.Parse(xn.SelectSingleNode("@attribute").InnerText);
                         break;
                     case "LocalCacheTime":
-                        para.LocalCacheTime = bool.Parse(xn.SelectSingleNode("@attribute").InnerText);
+                        para.LocalCacheTime = int.Parse(xn.SelectSingleNode("@attribute").InnerText);
                         break;
                     case "RecordeLog":
                         para.RecordeLog = bool.Parse(xn.SelectSingleNode("@attribute").InnerText);

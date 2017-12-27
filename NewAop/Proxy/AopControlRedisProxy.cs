@@ -1,4 +1,4 @@
-﻿using ServiceStack.Redis;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Runtime.Remoting.Messaging;
 using NewAop.AopProxy;
 using NewAop.Model;
+using ServiceStack.Redis;
 
 namespace NewAop.Proxy
 {

@@ -95,7 +95,7 @@ namespace AOPDemo.RedisWork
             client.EnqueueItemOnList("QueueListId", "5.王麻子1");
             client.EnqueueItemOnList("QueueListId", "6.王麻子2");
             client.EnqueueItemOnList("QueueListId", "7.王麻子3");
-            int q = client.GetListCount("QueueListId");
+            long q = client.GetListCount("QueueListId");
             for (int i = 0; i < q; i++)
             {
                 if (i == 4) break;
@@ -110,7 +110,7 @@ namespace AOPDemo.RedisWork
             client.PushItemToList("StackListId", "6.王麻子2");
             client.PushItemToList("StackListId", "7.王麻子3");
             //client.RPush()
-            int p = client.GetListCount("StackListId");
+            long p = client.GetListCount("StackListId");
             for (int i = 0; i < p; i++)
             {
                 if (i == 4) break;
