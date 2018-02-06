@@ -38,7 +38,7 @@ namespace NewAop.RealSubject
             object[] args = { target, serverType };
 
             //得到自定义的真实代理
-            AopProxyBase rp = this.proxyFactory.CreateAopProxyInstance(target, serverType);
+            AopProxyBase rp = proxyFactory.CreateAopProxyInstance(target, serverType);
 
             return (MarshalByRefObject)rp.GetTransparentProxy();
         }

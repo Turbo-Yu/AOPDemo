@@ -7,8 +7,12 @@ using System.Threading.Tasks;
 
 namespace NewAop.ParamAttribute
 {
+    public class AopSwitcherAttribute:Attribute
+    {
+
+    }
     [AttributeUsage(AttributeTargets.Method, AllowMultiple = false)]
-    public class RedisAopSwitcherAttribute : Attribute
+    public class RedisAopSwitcherAttribute : AopSwitcherAttribute
     {
         
         public RedisAopSwitcherAttribute()
@@ -38,6 +42,8 @@ namespace NewAop.ParamAttribute
         //ConvertFunc += get<string>("");
 
         public Func<object,object> Get { get; set; }
+
+        public object Value { get; set; }
 
     }
 

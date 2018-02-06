@@ -24,9 +24,9 @@ namespace NewAop.AopProxy
     {
         private readonly MarshalByRefObject target;//默认透明代理
 
-        public abstract TEntity PreProcess(IMessage requestMsg, string key, Type returnType);// where T : class;
+        public abstract TEntity PreProcess(IMessage requestMsg, RedisAopSwitcherAttribute attr);
 
-        public abstract bool PostProcess<T>(IMessage requestMsg, IMessage Respond, string key, T value) where T : class;
+        public abstract bool PostProcess(IMessage requestMsg, IMessage Respond, RedisAopSwitcherAttribute attr);
 
         public AopProxyBase(MarshalByRefObject obj, Type type)
             : base(type)
@@ -36,36 +36,23 @@ namespace NewAop.AopProxy
 
         public override IMessage Invoke(IMessage msg)
         {
-            string key = "";
-            bool uniq = false;
-            Type t = null;
-            Func<object,object> func = x => null;
             TEntity data = null;//预执行后要继续执行
+            RedisAopSwitcherAttribute methodAopAttr = null;
 
             var call = msg as IMethodCallMessage;
-
-            //var ty = call.MethodBase.ReflectedType;
-
             foreach (Attribute attr in call.MethodBase.GetCustomAttributes(false))
             {
-                var methodAopAttr = attr as RedisAopSwitcherAttribute;
+                methodAopAttr = attr as RedisAopSwitcherAttribute;
                 if (methodAopAttr != null)
                 {
-                    key = methodAopAttr.Key;
-                    uniq = methodAopAttr.IsUnique;
-                    t = methodAopAttr.ReturnType;
-                    func = methodAopAttr.Get;
                     break;
                 }
             }
 
 
-            if (!string.IsNullOrEmpty(key))
+            if (methodAopAttr != null)
             {
-                data = this.PreProcess(msg, key, t);//执行方法之前的操作
-                var ba = func(data.Data);
-               //var b = Convert.ChangeType(JsonConvert.DeserializeObject(data.Data.ToString()), t);
-                //t.ReflectedType.Assembly.CreateInstance(t.FullName);
+                data = this.PreProcess(msg, methodAopAttr);//执行方法之前的操作
             }
 
             //如果触发的是构造函数，此时的target还未构建
@@ -85,7 +72,7 @@ namespace NewAop.AopProxy
             {
                 //如果不想运行目标方法可执行该代码，如果直接返回return null会导致异常
                 IMethodCallMessage callMsg = msg as IMethodCallMessage;
-                var d = JsonConvert.DeserializeObject(data.Data.ToString());
+                var d = JsonConvert.DeserializeObject(data.Data.ToString(), methodAopAttr.ReturnType);
                 return new ReturnMessage(d, callMsg.Args, callMsg.ArgCount, null, callMsg);
             }
             else
@@ -94,10 +81,10 @@ namespace NewAop.AopProxy
                 IMethodMessage result_msg;
                 result_msg = RemotingServices.ExecuteMessage(this.target, call);
 
-                var value = (result_msg as ReturnMessage).ReturnValue;
+                methodAopAttr.Value = (result_msg as ReturnMessage).ReturnValue;
                 //执行结束代码
-                if (!string.IsNullOrEmpty(key))
-                    this.PostProcess(msg, result_msg, key, value);
+                if (methodAopAttr != null)
+                    this.PostProcess(msg, result_msg, methodAopAttr);
                 return result_msg;
             }
 

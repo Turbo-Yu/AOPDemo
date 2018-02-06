@@ -8,6 +8,8 @@ using System.Runtime.Remoting.Messaging;
 using NewAop.AopProxy;
 using NewAop.Model;
 using ServiceStack.Redis;
+using NewAop.ParamAttribute;
+using Newtonsoft.Json;
 
 namespace NewAop.Proxy
 {
@@ -19,28 +21,28 @@ namespace NewAop.Proxy
 
         }
 
-        public override TEntity PreProcess(IMessage requestMsg, string key, Type returnType)
+        public override TEntity PreProcess(IMessage requestMsg, RedisAopSwitcherAttribute attr)
         {
             using (var client = new RedisClient("127.0.0.1", 6379))
             {
-                var data = client.Get<TEntity>(key);
+                var data = client.Get<string>(attr.Key);
                 if (data == null)
                     return null;
                 else
                 {
-                    return data;
+                    return new TEntity { Data = data };
                 }
             }
         }
 
-        public override bool PostProcess<T>(IMessage requestMsg, IMessage Respond, string key, T value)
+        public override bool PostProcess(IMessage requestMsg, IMessage respond, RedisAopSwitcherAttribute attr)
         {
             try
             {
                 using (var client = new RedisClient("127.0.0.1", 6379))
                 {
-                    var t = new TEntity() { Data = value };
-                    client.Add<TEntity>(key, t);
+                    //var t = new TEntity() { Data = value };
+                    client.Add(attr.Key, JsonConvert.SerializeObject(attr.Value));
                     return true;
                 }
             }

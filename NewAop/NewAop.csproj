@@ -77,7 +77,6 @@
     <Compile Include="AopProxy\AopControlProxyFactory.cs" />
     <Compile Include="AopProxy\AopProxyBase.cs" />
     <Compile Include="ParamAttribute\MethodAopSwitcherAttribute.cs" />
-    <Compile Include="Proxy\AopControlProxy.cs" />
     <Compile Include="RealSubject\AopProxyAttribute.cs" />
     <Compile Include="RealSubject\AopProxyRedisAttribute.cs" />
     <Compile Include="AopProxy\CommonDef.cs" />

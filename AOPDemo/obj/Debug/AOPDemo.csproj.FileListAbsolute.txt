@@ -25,7 +25,6 @@ F:\Projects\Git\AOPDemo\AOPDemo\obj\Debug\AOPDemo.csprojResolveAssemblyReference
 F:\Projects\Git\AOPDemo\AOPDemo\obj\Debug\AOPDemo.exe
 F:\Projects\Git\AOPDemo\AOPDemo\obj\Debug\AOPDemo.pdb
 D:\Projects\AOPDemo\AOPDemo\bin\Debug\AOPDemo.exe.config
-D:\Projects\AOPDemo\AOPDemo\obj\Debug\AOPDemo.csprojResolveAssemblyReference.cache
 D:\Projects\AOPDemo\AOPDemo\obj\Debug\AOPDemo.csprojFakesResolveAssemblyReference.cache
 D:\Projects\AOPDemo\AOPDemo\bin\Debug\AOPDemo.exe
 D:\Projects\AOPDemo\AOPDemo\bin\Debug\AOPDemo.pdb
@@ -52,3 +51,9 @@ D:\Projects\AOPDemo\AOPDemo\bin\Debug\StackExchange.Redis.xml
 D:\Projects\AOPDemo\AOPDemo\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
 D:\Projects\AOPDemo\AOPDemo\obj\Debug\AOPDemo.exe
 D:\Projects\AOPDemo\AOPDemo\obj\Debug\AOPDemo.pdb
+D:\Projects\AOPDemo\AOPDemo\bin\Debug\PostSharp.dll
+D:\Projects\AOPDemo\AOPDemo\bin\Debug\PostSharp.xml
+D:\Projects\AOPDemo\AOPDemo\bin\Debug\AOPDemo.pssym
+D:\Projects\AOPDemo\AOPDemo\obj\Debug\AOPDemo.exe.postsharp
+D:\Projects\AOPDemo\AOPDemo\obj\Debug\PostSharpHost.config
+D:\Projects\AOPDemo\AOPDemo\obj\Debug\AOPDemo.csprojResolveAssemblyReference.cache

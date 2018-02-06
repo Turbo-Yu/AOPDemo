@@ -1,0 +1,9 @@
+D:\Projects\AOPDemo\AOP_PostSharpDemo\bin\Debug\PostSharp.dll
+D:\Projects\AOPDemo\AOP_PostSharpDemo\bin\Debug\PostSharp.xml
+D:\Projects\AOPDemo\AOP_PostSharpDemo\bin\Debug\AOP_PostSharpDemo.dll
+D:\Projects\AOPDemo\AOP_PostSharpDemo\bin\Debug\AOP_PostSharpDemo.pdb
+D:\Projects\AOPDemo\AOP_PostSharpDemo\bin\Debug\AOP_PostSharpDemo.pssym
+D:\Projects\AOPDemo\AOP_PostSharpDemo\obj\Debug\AOP_PostSharpDemo.dll.postsharp
+D:\Projects\AOPDemo\AOP_PostSharpDemo\obj\Debug\AOP_PostSharpDemo.dll
+D:\Projects\AOPDemo\AOP_PostSharpDemo\obj\Debug\AOP_PostSharpDemo.pdb
+D:\Projects\AOPDemo\AOP_PostSharpDemo\obj\Debug\PostSharpHost.config

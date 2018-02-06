@@ -24,7 +24,7 @@ namespace AOPDemo.RedisWork
             return Get_studs;
         }
 
-        public T A<T>(string json){return JsonConvert.DeserializeObject<T>(json);}
+        //public T A<T>(string json){return JsonConvert.DeserializeObject<T>(json);}
 
         [RedisAopSwitcher(Key = "StringListEntity", IsUnique = false, ReturnType = typeof(List<Student>))]
         public List<Student> Push(string uid)

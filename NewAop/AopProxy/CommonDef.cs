@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Runtime.Remoting.Messaging;
 using NewAop.Model;
+using NewAop.ParamAttribute;
 
 namespace NewAop.AopProxy
 {
@@ -20,15 +21,16 @@ namespace NewAop.AopProxy
         /// </summary>
         /// <param name="requestMsg"></param>
         /// <returns></returns>
-        TEntity PreProcess(IMessage requestMsg, string key, Type returnType) ;//where T : class;
+        TEntity PreProcess(IMessage requestMsg, RedisAopSwitcherAttribute attr) ;//where T : class;
 
         /// <summary>
         /// 目标函数执行后的触发函数
         /// </summary>
         /// <param name="requestMsg"></param>
         /// <param name="Respond"></param>
+        /// <param name="attr"></param>
         /// <returns></returns>
-        bool PostProcess<T>(IMessage requestMsg, IMessage Respond, string key, T value) where T : class;
+        bool PostProcess(IMessage requestMsg, IMessage Respond, RedisAopSwitcherAttribute attr);
     }
 
     /// <summary>

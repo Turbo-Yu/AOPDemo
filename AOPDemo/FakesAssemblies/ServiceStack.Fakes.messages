@@ -1,0 +1,930 @@
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <>f__AnonymousType0`2 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <>f__AnonymousType1`2 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <>f__AnonymousType2`2 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <>f__AnonymousType3`2 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <>f__AnonymousType4`2 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <>f__AnonymousType5`2 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <>f__AnonymousType6`2 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <>f__AnonymousType7`2 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <>f__AnonymousType8`2 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <>f__AnonymousType9`2 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.Abbreviation 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.BlockType 生成存根: 类型是一个值类型。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.Block 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.FootnoteReference 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.HtmlTagFlags 生成存根: 类型是一个值类型。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.LinkInfo 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.SpanFormatter 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.ColumnAlignment 生成存根: 类型是一个值类型。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.TableSpec 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.TokenType 生成存根: 类型是一个值类型。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.Token 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.Utils 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 System.Threading.Tasks.TaskHelpers 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Func`6 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Func`7 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Func`8 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Owner 生成存根: 类型是一个值类型。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.ReuseScope 生成存根: 类型是一个值类型。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.ServiceKey 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AppHostExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ApplyToUtils 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AsyncExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AuthFeatureExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AuthSessionExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ApiKeyAuthProviderExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ConditionAlias 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.CompareTypeUtils 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.QueryDataFilterDelegate 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.GenericAutoQueryData 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.GenericAutoQueryData`2 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AutoQueryDataExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AutoQueryDataServiceSource 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.CacheClientExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.CacheInfoExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.CacheResponseExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.CancellableRequest 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.EmptyCancellableRequest 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.CancellableRequestsExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ContainerNetCoreExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ContainerTypeExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.DtoUtils 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.EncryptedMessagesFeatureExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FileExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HostContext 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HttpCacheExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HttpExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HttpRequestExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HttpResponseExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AuthenticationHeaderType 生成存根: 类型是一个值类型。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HttpResponseExtensionsInternal 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.CacheControl 生成存根: 类型是一个值类型。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HttpResultExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HttpResultUtils 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Keywords 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.LocalizedStrings 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ErrorMessages 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HelpMessages 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.StrictModeCodes 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.MarkdownConfig 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.MetadataFeatureExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.MqExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.PostmanExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.RequestExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.RequestFilterPriority 生成存根: 类型是一个值类型。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.RequiresSchemaProviders 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Selector 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServerEventExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServiceExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServiceRoutesExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServiceStackProviderExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.SessionExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.SitemapFrequency 生成存根: 类型是一个值类型。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.TaskExt 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.TemplatePagesFeatureExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ValidationResultExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Validation.ValidationExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Validation.ValidationFilters 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Validation.ValidatorCache 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Testing.RestGatewayDelegate 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Templates.HtmlTemplates 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Support.WebHost.FilterAttributeCache 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Support.WebHost.GzipOptimizationTest 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ResourceDesigner.Resources 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.MiniProfiler.RenderPosition 生成存根: 类型是一个值类型。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.MiniProfiler.Profiler 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.MetadataExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.VbNet.VbNetGeneratorExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.TypeScript.TypeScriptGeneratorExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Swift.SwiftGeneratorExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Kotlin.KotlinGeneratorExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Java.JavaGeneratorExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.FSharp.FSharpGeneratorExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.CSharp.CSharpGeneratorExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Metadata.ListTemplate 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Metadata.ServiceEndpointsMetadataConfig 生成存根: 类型没有系列可见的构造函数。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Metadata.Soap11OperationControl 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Metadata.Soap12OperationControl 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Metadata.TableTemplate 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Metadata.XsdTypeNames 生成存根: 类型是一个值类型。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Metadata.XsdTypes 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Messaging.WorkerOperation 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Html.HtmlContextExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Html.Minifiers 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Html.HtmlCompressorExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Html.HtmlCompressor 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Html.HtmlCompressorStatistics 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Html.HtmlMetrics 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Html.HtmlStringExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.HttpHandlerResolverDelegate 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.StreamSerializerResolverDelegate 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.HandleUncaughtExceptionDelegate 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.HandleServiceExceptionDelegate 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.FallbackRestPathDelegate 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.CookiesExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.HttpRequestAuthentication 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.HttpWebRequestConfig 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.RouteNamingConventionDelegate 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.RouteNamingConvention 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceExecFn 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.InstanceExecFn 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ActionInvokerFn 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.VoidActionInvokerFn 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceExecExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceExec`1 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceMetadataExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.MetadataTypeExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.HttpListener.DelReceiveWebRequest 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.BackwardsCompatibilityExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.CollectionValidatorExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorExtensionsServiceStack 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.CascadeMode 生成存根: 类型是一个值类型。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.ApplyConditionTo 生成存根: 类型是一个值类型。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Severity 生成存根: 类型是一个值类型。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.ValidationErrors 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.ValidatorOptions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.Comparison 生成存根: 类型是一个值类型。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.TestHelper.TestPropertyChain`2 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.TestHelper.ValidationResultTester`2 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.TestHelper.ValidationTestExtension 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.Comparer 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.DelegateValidator`1 生成存根: 类型已过时。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.Extensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.AccessorCache`1 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.MemberAccessor`1 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.IResourceAccessorBuilder 生成存根: 类型已过时。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.BackwardsCompatFormatArgStringSource 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.IContextAwareStringSource 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.Language 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.GenericLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.ChineseSimplifiedLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.CroatianLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.CzechLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.DanishLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.DutchLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.EnglishLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.FinnishLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.FrenchLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.GeorgianLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.GermanLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.HindiLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.ItalianLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.KoreanLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.MacedonianLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.PersianLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.PolishLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.PortugueseLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.RomanianLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.RussianLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.SpanishLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.SwedishLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.TurkishLanguage 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.ContextAwareLazyStringSource 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.OverridableLocalizedStringSource 生成存根: 类型已过时。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Configuration.ParsingStrategyDelegate 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Configuration.AppSettingsStrategy 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Configuration.AppSettingsUtils 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Configuration.RoleNames 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Caching.CacheClientWithPrefixExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.CreateApiKeyDelegate 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.ApiKeyAuthEvents 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.HttpContextExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.ValidateFn 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.AuthMetadataProviderExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.AuthExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.JwtExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.OAuthUtils 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.Pbkdf2DeriveKeyDelegate 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.Pbkdf2Provider 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.KeyDerivationPrf 生成存根: 类型是一个值类型。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.KeyDerivation 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.IPbkdf2Provider 生成存根: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.ManagedPbkdf2Provider 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.CryptoUtil 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.HashExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.SocialExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.UserAuthExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.UserAuthRepositoryExtensions 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <PrivateImplementationDetails> 生成存根: 类型已密封。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <>f__AnonymousType0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <>f__AnonymousType1`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <>f__AnonymousType2`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <>f__AnonymousType3`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <>f__AnonymousType4`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <>f__AnonymousType5`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <>f__AnonymousType6`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <>f__AnonymousType7`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <>f__AnonymousType8`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <>f__AnonymousType9`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.Abbreviation 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.BlockType 生成填充码: 类型是一个枚举。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.Block 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.BlockProcessor+MarkdownInHtmlMode 生成填充码: 类型是一个枚举。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.FootnoteReference 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.HtmlTagFlags 生成填充码: 类型是一个枚举。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.LinkInfo 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.Markdown+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.SpanFormatter 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.ColumnAlignment 生成填充码: 类型是一个枚举。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.TableSpec 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.TokenType 生成填充码: 类型是一个枚举。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.Token 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 MarkdownDeep.Utils 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 System.Threading.Tasks.TaskHelpers 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__14`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__15`3 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__16`4 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass12_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass14_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass15_0`3 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass16_0`4 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass24_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass25_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass26_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass27_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass33_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass34_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass76_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass76_1`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass76_2`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass7_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass87_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass88_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass89_0`3 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass8_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass90_0`4 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass91_0`5 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass92_0`6 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Container+<>c__DisplayClass93_0`7 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.IHasContainer 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Func`6 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Func`7 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Func`8 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.IFluentInterface 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.IFunqlet 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.IContainerModule 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.Owner 生成填充码: 类型是一个枚举。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.ReuseScope 生成填充码: 类型是一个枚举。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.ServiceEntry`2+AquiredLock 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.ServiceKey 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.IRegistration 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.IRegistration`1 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.IInitializable`1 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.IReusedOwned 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.IReused 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 Funq.IOwned 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AppHostExtensions+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AppHostExtensions+<>c__11`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AppHostExtensions+<>c__4`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AppHostExtensions+<>c__5`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AppHostExtensions+<>c__6`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AppHostHttpListenerBase+<>c__DisplayClass8_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AppHostHttpListenerBase+<ProcessRequestAsync>d__8 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AppHostHttpListenerPoolBase+<>c__DisplayClass13_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AppHostHttpListenerPoolBase+ThreadPoolManager 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AsyncExtensions 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AuthenticateAttribute+<>c__DisplayClass12_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AuthenticateAttribute+<>c__DisplayClass13_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AuthenticateAttribute+<ExecuteAsync>d__12 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AuthFeature+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AuthFeature+<>c__DisplayClass76_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.InBetweenCondition+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IQueryMultiple 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IDataQuery 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IQueryDataSource`1 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IQueryDataSource 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.QueryDataFilterDelegate 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AutoQueryDataFeature+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AutoQueryDataFeature+<>c__DisplayClass55_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AutoQueryDataFeature+<>c__DisplayClass56_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AutoQueryDataFeature+<>c__DisplayClass57_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.OrderByExpression+OrderByComparator`1 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.DataQuery`1+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.DataQuery`1+<>c__DisplayClass37_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IAutoQueryData 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IAutoQueryDataOptions 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AutoQueryData+<>c__50`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.GenericAutoQueryData 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.GenericAutoQueryData`2 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.QueryDataSource`1+<>c__DisplayClass9_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ITypedQueryData 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.TypedQueryData`2+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.TypedQueryData`2+MatchQuery 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AutoQueryDataServiceSource+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AutoQueryMetadataService+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AutoQueryMetadataService+<>c__DisplayClass4_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.CacheResponseAttribute+<ExecuteAsync>d__33 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.CacheResponseExtensions+<HandleValidCache>d__1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ICancellableRequest 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.CancellableRequest 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.EmptyCancellableRequest 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.CompressedFileResult+<WriteToAsync>d__15 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.CompressedResult+<WriteToAsync>d__52 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.CompressResponseAttribute+<ExecuteAsync>d__0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ContainerTypeExtensions+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.CorsFeature+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.CorsFeature+<>c__DisplayClass18_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.EncryptedMessagesFeature+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.EncryptedMessagesFeature+<>c__DisplayClass33_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.EncryptedMessagesFeature+<>c__DisplayClass33_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.EncryptedMessagesFeature+<WriteEncryptedError>d__36 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.EncryptedMessagesFeature+<WriteUnencryptedError>d__35 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.SoapFormat+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServiceStackHost+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServiceStackHost+<>c__264`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServiceStackHost+<>c__265`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServiceStackHost+<>c__DisplayClass289_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServiceStackHost+<>c__DisplayClass328_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServiceStackHost+<ApplyRequestConvertersAsync>d__300 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServiceStackHost+<ApplyRequestFiltersAsync>d__306 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServiceStackHost+<ApplyRequestFiltersSingleAsync>d__307 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServiceStackHost+<ApplyResponseConvertersAsync>d__301 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServiceStackHost+<ApplyResponseFiltersAsync>d__309 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServiceStackHost+<ApplyResponseFiltersSingleAsync>d__310 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HostConfig+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HotReloadFilesService+<Any>d__2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HttpCacheFeature+<CacheAndWriteResponse>d__19 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HttpCacheFeature+<HandleCacheResponses>d__18 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HttpExtensions+<EndHttpHandlerRequestAsync>d__9 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.AuthenticationHeaderType 生成填充码: 类型是一个枚举。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HttpResponseExtensionsInternal+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HttpResponseExtensionsInternal+<WriteBytesToResponse>d__9 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HttpResponseExtensionsInternal+<WriteErrorToResponse>d__14 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HttpResponseExtensionsInternal+<WriteToOutputStreamAsync>d__2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HttpResponseExtensionsInternal+<WriteToResponse>d__7 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HttpResult+<WritePartialToAsync>d__115 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HttpResult+<WriteToAsync>d__111 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HttpResult+<WriteToAsync>d__112 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.CacheControl 生成填充码: 类型是一个枚举。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.HttpResultUtils+<WritePartialToAsync>d__9 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IAppHost 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IHasAppHost 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IRepository 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ILogic 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.InProcessServiceGateway+<>c__DisplayClass14_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.InProcessServiceGateway+<ExecAsync>d__7`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.InProcessServiceGateway+<ExecValidators>d__8 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.InProcessServiceGateway+<PublishAllAsync>d__18 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.InProcessServiceGateway+<PublishAsync>d__16 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.InProcessServiceGateway+<SendAsync>d__11`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IPlugin 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IPreInitPlugin 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IPostInitPlugin 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IAuthPlugin 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IProtoBufPlugin 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IMsgPackPlugin 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IWirePlugin 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.INetSerializerPlugin 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IRazorPlugin 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IRequiresSoapMessage 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IServiceBase 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IMarkdownTransformer 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.MetadataFeature+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.PostmanService+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.PostmanService+<>c__DisplayClass1_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.PostmanService+<>c__DisplayClass1_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.PostmanService+<>c__DisplayClass1_2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.PostmanExtensions+<>c__DisplayClass1_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.PostmanExtensions+<>c__DisplayClass2_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.PostmanExtensions+<>c__DisplayClass3_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ProxyFeatureHandler+<CopyToResponse>d__23 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ProxyFeatureHandler+<ProxyRequestAsync>d__22 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.RequestFilterPriority 生成填充码: 类型是一个枚举。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.RequiredPermissionAttribute+<>c__DisplayClass8_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.RequiredPermissionAttribute+<ExecuteAsync>d__6 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.RequiredRoleAttribute+<>c__DisplayClass10_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.RequiredRoleAttribute+<>c__DisplayClass8_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.RequiredRoleAttribute+<>c__DisplayClass9_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.RequiredRoleAttribute+<ExecuteAsync>d__6 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.RequiresAnyPermissionAttribute+<>c__DisplayClass8_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.RequiresAnyPermissionAttribute+<ExecuteAsync>d__6 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.RequiresAnyRoleAttribute+<>c__DisplayClass8_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.RequiresAnyRoleAttribute+<>c__DisplayClass9_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.RequiresAnyRoleAttribute+<ExecuteAsync>d__6 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServerEventsFeature+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServerEventsFeature+<>c__DisplayClass76_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServerEventsHandler+<>c__DisplayClass1_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IEventSubscription 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.MemoryServerEvents+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IServerEvents 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServerEventExtensions+<KeysWithoutLock>d__11`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServerEventExtensions+<ValuesWithoutLock>d__10`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServiceExtensions+<>c__DisplayClass15_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServiceExtensions+<>c__DisplayClass19_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServiceRoutesExtensions+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServiceRoutesExtensions+<>c__7`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IHasServiceStackProvider 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IServiceStackProvider 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ServiceStackProviderExtensions+<>c__DisplayClass1_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.SessionExtensions+<>c__DisplayClass20_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.SessionFactory+SessionCacheClient+<>c__DisplayClass5_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.SitemapFrequency 生成填充码: 类型是一个枚举。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.SitemapFeature+SitemapIndexHandler+<>c__DisplayClass2_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.SitemapFeature+SitemapIndexHandler+<ProcessRequestAsync>d__2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.SitemapFeature+SitemapUrlSetHandler+<>c__DisplayClass3_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.SitemapFeature+SitemapUrlSetHandler+<ProcessRequestAsync>d__3 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.TemplateInfoFilters+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.TemplatePagesFeature+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.TemplatePagesFeature+<ProcessRequestAsync>d__44 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.TemplateHotReloadService+<Any>d__6 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.TemplateApiPagesService+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.TemplateApiPagesService+<Any>d__0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.TemplateMetadataDebugService+<>c__DisplayClass2_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.TemplatePageHandler+<ProcessRequestAsync>d__11 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.TemplateCodePageHandler+<ProcessRequestAsync>d__11 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.MarkdownPageFormat+<TransformToHtml>d__1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.IAutoQueryDbFilters 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.TemplateServiceStackFilters+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.WebSudoRequiredAttribute+<ExecuteAsync>d__2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Validation.ValidationExtensions+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Validation.ValidationFilters+<>c__DisplayClass1_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Validation.ValidatorCache+ResolveValidatorDelegate 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Testing.RestGatewayDelegate 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Support.WebHost.FilterAttributeCache+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.ResourceDesigner.Resources 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.MiniProfiler.RenderPosition 生成填充码: 类型是一个枚举。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.MiniProfiler.IProfiler 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.MiniProfiler.NullProfiler+MockDisposable 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Platforms.PlatformNet+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Platforms.PlatformNet+<>c__DisplayClass10_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.NativeTypesMetadata+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.MetadataTypesGenerator+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.MetadataTypesGenerator+<>c__DisplayClass12_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.MetadataTypesGenerator+<>c__DisplayClass16_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.MetadataTypesGenerator+<>c__DisplayClass17_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.MetadataTypesGenerator+<>c__DisplayClass3_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.MetadataExtensions+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.MetadataExtensions+<>c__DisplayClass11_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.MetadataExtensions+<>c__DisplayClass11_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.MetadataExtensions+<>c__DisplayClass12_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.MetadataExtensions+<>c__DisplayClass13_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.MetadataExtensions+<>c__DisplayClass20_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.MetadataExtensions+<>c__DisplayClass23_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.MetadataExtensions+<>c__DisplayClass23_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.MetadataExtensions+<>c__DisplayClass25_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.MetadataExtensions+<>c__DisplayClass26_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.MetadataExtensions+<>c__DisplayClass5_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.MetadataExtensions+<GetDepTypes>d__24 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.INativeTypesMetadata 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.NativeTypesService+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.NativeTypesService+<>c__DisplayClass11_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.NativeTypesService+<>c__DisplayClass11_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.VbNet.VbNetGenerator+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.VbNet.VbNetGenerator+<>c__DisplayClass8_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.VbNet.VbNetGenerator+<>c__DisplayClass8_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.VbNet.VbNetGenerator+<>c__DisplayClass8_2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.VbNet.VbNetGenerator+<>c__DisplayClass9_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.VbNet.VbNetGenerator+<>c__DisplayClass9_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.TypeScript.TypeScriptGenerator+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.TypeScript.TypeScriptGenerator+<>c__DisplayClass12_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.TypeScript.TypeScriptGenerator+<>c__DisplayClass14_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.TypeScript.TypeScriptGenerator+<>c__DisplayClass14_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.TypeScript.TypeScriptGenerator+<>c__DisplayClass14_2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.TypeScript.TypeScriptGenerator+<>c__DisplayClass14_3 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.TypeScript.TypeScriptGenerator+<>c__DisplayClass15_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Swift.SwiftGenerator+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Swift.SwiftGenerator+<>c__DisplayClass10_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Swift.SwiftGenerator+<>c__DisplayClass10_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Swift.SwiftGenerator+<>c__DisplayClass10_2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Swift.SwiftGenerator+<>c__DisplayClass10_3 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Swift.SwiftGenerator+<>c__DisplayClass13_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Swift.SwiftGenerator+<>c__DisplayClass23_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Kotlin.KotlinGenerator+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Kotlin.KotlinGenerator+<>c__DisplayClass14_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Kotlin.KotlinGenerator+<>c__DisplayClass14_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Kotlin.KotlinGenerator+<>c__DisplayClass14_2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Kotlin.KotlinGenerator+<>c__DisplayClass14_3 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Kotlin.KotlinGenerator+<>c__DisplayClass19_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Java.JavaGenerator+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Java.JavaGenerator+<>c__DisplayClass14_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Java.JavaGenerator+<>c__DisplayClass14_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Java.JavaGenerator+<>c__DisplayClass14_2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Java.JavaGenerator+<>c__DisplayClass14_3 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.Java.JavaGenerator+<>c__DisplayClass19_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.FSharp.FSharpGenerator+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.FSharp.FSharpGenerator+<>c__DisplayClass7_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.FSharp.FSharpGenerator+<>c__DisplayClass7_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.FSharp.FSharpGenerator+<>c__DisplayClass7_2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.CSharp.CSharpGenerator+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.CSharp.CSharpGenerator+<>c__DisplayClass7_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.CSharp.CSharpGenerator+<>c__DisplayClass7_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.CSharp.CSharpGenerator+<>c__DisplayClass7_2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.CSharp.CSharpGenerator+<>c__DisplayClass8_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.NativeTypes.CSharp.CSharpGenerator+<>c__DisplayClass8_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Metadata.BaseMetadataHandler+<>c__DisplayClass12_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Metadata.BaseMetadataHandler+<>c__DisplayClass12_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Metadata.BaseMetadataHandler+<>c__DisplayClass13_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Metadata.ListTemplate 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Metadata.OperationControl+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Metadata.Soap11OperationControl 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Metadata.Soap12OperationControl 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Metadata.TableTemplate 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Metadata.XsdTypeNames 生成填充码: 类型是一个枚举。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Metadata.XsdTypes 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Messaging.IMessageHandlerDisposer 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Messaging.IMessageHandlerFactory 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Messaging.InMemoryTransientMessageFactory+InMemoryMessageProducer 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Messaging.MessageHandler`1+<>c__DisplayClass59_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Messaging.TransientMessageServiceBase+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Messaging.TransientMessageServiceBase+<>c__DisplayClass24_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Html.IHtmlContext 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Html.IViewEngine 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.HttpHandlerResolverDelegate 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.StreamSerializerResolverDelegate 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.HandleUncaughtExceptionDelegate 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.HandleServiceExceptionDelegate 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.FallbackRestPathDelegate 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ITypedFilter 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ITypedFilter`1 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ContentTypes+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ContentTypes+<>c__DisplayClass30_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ContentTypes+<>c__DisplayClass35_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ContentTypes+<SerializeToStreamAsync>d__29 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ContentTypes+<SerializeUnknownContentType>d__26 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.RestHandler+<ProcessRequestAsync>d__14 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.RestPath+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.RestPath+<>c__DisplayClass88_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.RestPath+<>c__DisplayClass88_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.RestPath+<GetPotentialMatchesWithPrefix>d__64 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.RouteNamingConventionDelegate 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.RouteNamingConvention+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceExecFn 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.InstanceExecFn 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ActionInvokerFn 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.VoidActionInvokerFn 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceController+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceController+<>c__DisplayClass26_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceController+<>c__DisplayClass29_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceController+<>c__DisplayClass37_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceController+<>c__DisplayClass37_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceController+<>c__DisplayClass39_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceController+<>c__DisplayClass52_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceController+<>c__DisplayClass52_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceController+<>c__DisplayClass5_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceController+<ApplyResponseFiltersAsync>d__42 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceController+<ExecuteAsync>d__47 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceController+<GatewayExecuteAsync>d__50 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.IServiceExec 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceExecExtensions+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceExecExtensions+<>c__DisplayClass0_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceExecExtensions+<GetActions>d__0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceExec`1 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceMetadata+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceMetadata+<>c__DisplayClass34_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceMetadata+<>c__DisplayClass43_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceMetadata+<>c__DisplayClass55_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceMetadata+<>c__DisplayClass58_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.XsdMetadata+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.XsdMetadata+<>c__DisplayClass10_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.XsdMetadata+<>c__DisplayClass9_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceMetadataExtensions+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceMetadataExtensions+<>c__DisplayClass1_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.MetadataTypeExtensions+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.MetadataTypeExtensions+<>c__DisplayClass2_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceRoutes+<>c__DisplayClass9_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceRunner`1+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.ServiceRunner`1+<ExecuteAsync>d__13 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.HttpListener.DelReceiveWebRequest 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.HttpListener.HttpListenerBase+<>c__DisplayClass23_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.HttpListener.ListenerRequest+Helpers 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.HttpListener.ListenerRequest+HttpMultipart 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.HttpListener.ListenerRequest+HttpPostedFile+ReadSubStream 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.HttpListener.ListenerRequest+StrUtils 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.HttpListener.ListenerRequest+WebROCollection 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.HttpListener.ListenerResponse+<FlushAsync>d__39 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.Handlers.CustomActionHandlerAsync+<ProcessRequestAsync>d__5 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.Handlers.CustomResponseHandlerAsync+<ProcessRequestAsync>d__5 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.Handlers.ForbiddenHttpHandler+<>c__DisplayClass17_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.Handlers.GenericHandler+<ProcessRequestAsync>d__12 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.Handlers.HttpAsyncTaskHandler+<>c__DisplayClass14_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.Handlers.HttpAsyncTaskHandler+<>c__DisplayClass7_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.Handlers.IServiceStackHandler 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.Handlers.JsvReplyHandler+<ProcessRequestAsync>d__1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.Handlers.NotFoundHttpHandler+<>c__DisplayClass17_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.Handlers.RequestInfoHandler+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.Handlers.RequestInfoHandler+<>c__DisplayClass6_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.Handlers.IRequestHttpHandler 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.Handlers.ServiceStackHandlerBase+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.Handlers.ServiceStackHandlerBase+<HandleAsyncBatchResponse>d__14 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.Handlers.ServiceStackHandlerBase+<HandleResponse>d__12 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.Handlers.ServiceStackHandlerBase+<HandleResponseNext>d__13 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.Handlers.StaticContentHandler+<ProcessRequestAsync>d__6 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.Handlers.StaticFileHandler+<>c__DisplayClass39_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.Handlers.StaticFileHandler+<GetFiles>d__47 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Host.Handlers.StaticFileHandler+<ProcessRequestAsync>d__39 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Formats.CsvFormat+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Formats.HtmlFormat+<SerializeToStreamAsync>d__10 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.AbstractValidator`1+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.AbstractValidator`1+<>c__DisplayClass12_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.AbstractValidator`1+<>c__DisplayClass13_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.AbstractValidator`1+<>c__DisplayClass19_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.AbstractValidator`1+<>c__DisplayClass20_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.AbstractValidator`1+<>c__DisplayClass21_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.AbstractValidator`1+<>c__DisplayClass22_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.AbstractValidator`1+<>c__DisplayClass23_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.AbstractValidator`1+<>c__DisplayClass24_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.AbstractValidator`1+<>c__DisplayClass25_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.AbstractValidator`1+<>c__DisplayClass26_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.AbstractValidator`1+<>c__DisplayClass27_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.AbstractValidator`1+<>c__DisplayClass5_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.AssemblyScanner+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.AssemblyScanner+<>c__DisplayClass5_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.BackwardsCompatibilityExtensions+<>c__11`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.BackwardsCompatibilityExtensions+<>c__5`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.BackwardsCompatibilityExtensions+<>c__8`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.BackwardsCompatibilityExtensions+<>c__9`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.BackwardsCompatibilityExtensions+<>c__DisplayClass11_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.BackwardsCompatibilityExtensions+<>c__DisplayClass11_1`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.BackwardsCompatibilityExtensions+<>c__DisplayClass12_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.BackwardsCompatibilityExtensions+<>c__DisplayClass13_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.BackwardsCompatibilityExtensions+<>c__DisplayClass1_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.BackwardsCompatibilityExtensions+<>c__DisplayClass4_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.BackwardsCompatibilityExtensions+<>c__DisplayClass5_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.BackwardsCompatibilityExtensions+<>c__DisplayClass5_1`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.BackwardsCompatibilityExtensions+<>c__DisplayClass6_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.BackwardsCompatibilityExtensions+<>c__DisplayClass8_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.BackwardsCompatibilityExtensions+<>c__DisplayClass8_1`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.BackwardsCompatibilityExtensions+<>c__DisplayClass9_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.BackwardsCompatibilityExtensions+<>c__DisplayClass9_1`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.CollectionValidatorExtensions+<>c__DisplayClass1_0`3 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.CollectionValidatorExtensions+CollectionValidatorRuleBuilder`2 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.CollectionValidatorExtensions+ICollectionValidatorRuleBuilder`2 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 正在跳过 method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.ExclusiveBetween(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, !!1 from, !!1 to)，method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.ExclusiveBetween(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, !!1 from, !!1 to) unstubbable: 不受支持的约束类型
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 正在跳过 method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.GreaterThan(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, !!1 valueToCompare)，method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.GreaterThan(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, !!1 valueToCompare) unstubbable: 不受支持的约束类型
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 正在跳过 method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,!!1> ServiceStack.FluentValidation.DefaultValidatorExtensions.GreaterThan(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,!!1> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,System.Nullable`1<!!1>>> expression)，method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,!!1> ServiceStack.FluentValidation.DefaultValidatorExtensions.GreaterThan(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,!!1> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,System.Nullable`1<!!1>>> expression) unstubbable: 不受支持的约束类型
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 正在跳过 method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.GreaterThan(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,!!1>> expression)，method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.GreaterThan(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,!!1>> expression) unstubbable: 不受支持的约束类型
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 正在跳过 method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.GreaterThan(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,System.Nullable`1<!!1>>> expression)，method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.GreaterThan(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,System.Nullable`1<!!1>>> expression) unstubbable: 不受支持的约束类型
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 正在跳过 method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.GreaterThanOrEqualTo(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, !!1 valueToCompare)，method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.GreaterThanOrEqualTo(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, !!1 valueToCompare) unstubbable: 不受支持的约束类型
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 正在跳过 method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,!!1> ServiceStack.FluentValidation.DefaultValidatorExtensions.GreaterThanOrEqualTo(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,!!1> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,System.Nullable`1<!!1>>> valueToCompare)，method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,!!1> ServiceStack.FluentValidation.DefaultValidatorExtensions.GreaterThanOrEqualTo(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,!!1> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,System.Nullable`1<!!1>>> valueToCompare) unstubbable: 不受支持的约束类型
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 正在跳过 method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.GreaterThanOrEqualTo(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,System.Nullable`1<!!1>>> valueToCompare)，method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.GreaterThanOrEqualTo(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,System.Nullable`1<!!1>>> valueToCompare) unstubbable: 不受支持的约束类型
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 正在跳过 method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.GreaterThanOrEqualTo(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,!!1>> valueToCompare)，method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.GreaterThanOrEqualTo(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,!!1>> valueToCompare) unstubbable: 不受支持的约束类型
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 正在跳过 method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.InclusiveBetween(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, !!1 from, !!1 to)，method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.InclusiveBetween(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, !!1 from, !!1 to) unstubbable: 不受支持的约束类型
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 正在跳过 method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.LessThan(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, !!1 valueToCompare)，method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.LessThan(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, !!1 valueToCompare) unstubbable: 不受支持的约束类型
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 正在跳过 method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,!!1> ServiceStack.FluentValidation.DefaultValidatorExtensions.LessThan(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,!!1> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,System.Nullable`1<!!1>>> expression)，method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,!!1> ServiceStack.FluentValidation.DefaultValidatorExtensions.LessThan(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,!!1> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,System.Nullable`1<!!1>>> expression) unstubbable: 不受支持的约束类型
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 正在跳过 method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.LessThan(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,!!1>> expression)，method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.LessThan(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,!!1>> expression) unstubbable: 不受支持的约束类型
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 正在跳过 method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.LessThan(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,System.Nullable`1<!!1>>> expression)，method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.LessThan(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,System.Nullable`1<!!1>>> expression) unstubbable: 不受支持的约束类型
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 正在跳过 method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.LessThanOrEqualTo(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, !!1 valueToCompare)，method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.LessThanOrEqualTo(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, !!1 valueToCompare) unstubbable: 不受支持的约束类型
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 正在跳过 method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,!!1> ServiceStack.FluentValidation.DefaultValidatorExtensions.LessThanOrEqualTo(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,!!1> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,System.Nullable`1<!!1>>> expression)，method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,!!1> ServiceStack.FluentValidation.DefaultValidatorExtensions.LessThanOrEqualTo(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,!!1> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,System.Nullable`1<!!1>>> expression) unstubbable: 不受支持的约束类型
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 正在跳过 method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.LessThanOrEqualTo(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,!!1>> expression)，method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.LessThanOrEqualTo(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,!!1>> expression) unstubbable: 不受支持的约束类型
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 正在跳过 method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.LessThanOrEqualTo(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,System.Nullable`1<!!1>>> expression)，method ServiceStack.FluentValidation.IRuleBuilderOptions`2<!!0,System.Nullable`1<!!1>> ServiceStack.FluentValidation.DefaultValidatorExtensions.LessThanOrEqualTo(ServiceStack.FluentValidation.IRuleBuilder`2<!!0,System.Nullable`1<!!1>> ruleBuilder, System.Linq.Expressions.Expression`1<System.Func`2<!!0,System.Nullable`1<!!1>>> expression) unstubbable: 不受支持的约束类型
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorExtensions+<>c__53`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorExtensions+<>c__DisplayClass21_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorExtensions+<>c__DisplayClass22_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorExtensions+<>c__DisplayClass23_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorExtensions+<>c__DisplayClass24_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorExtensions+<>c__DisplayClass25_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorExtensions+<>c__DisplayClass26_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorExtensions+<ValidateAndThrowAsync>d__58`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions+<>c__10`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions+<>c__19`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions+<>c__DisplayClass0_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions+<>c__DisplayClass10_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions+<>c__DisplayClass11_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions+<>c__DisplayClass12_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions+<>c__DisplayClass13_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions+<>c__DisplayClass14_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions+<>c__DisplayClass15_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions+<>c__DisplayClass16_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions+<>c__DisplayClass17_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions+<>c__DisplayClass19_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions+<>c__DisplayClass1_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions+<>c__DisplayClass2_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions+<>c__DisplayClass3_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions+<>c__DisplayClass4_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions+<>c__DisplayClass5_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions+<>c__DisplayClass6_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions+<>c__DisplayClass7_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions+<>c__DisplayClass8_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.DefaultValidatorOptions+<>c__DisplayClass9_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.CascadeMode 生成填充码: 类型是一个枚举。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.ApplyConditionTo 生成填充码: 类型是一个枚举。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Severity 生成填充码: 类型是一个枚举。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.InlineValidator`1+InlineRuleCreator`1 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.IParameterValidatorFactory 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.IValidationRule 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.IValidator`1 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.IValidator 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.IValidatorDescriptor 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.IValidatorFactory 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.IRuleBuilderInitial`2 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.IRuleBuilder`2 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.IRuleBuilderOptions`2 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.ValidationException+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.ValidatorDescriptor`1+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.ValidatorDescriptor`1+<>c__10`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.ValidatorDescriptor`1+<>c__DisplayClass10_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.ValidatorDescriptor`1+<>c__DisplayClass5_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.ValidatorDescriptor`1+<>c__DisplayClass8_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.ValidatorOptions+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.ValidatorSelectorOptions+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.IComparisonValidator 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.Comparison 生成填充码: 类型是一个枚举。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.AsyncValidatorBase+<>c__DisplayClass5_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.ChildCollectionValidatorAdaptor+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.ChildCollectionValidatorAdaptor+<>c__16`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.ChildCollectionValidatorAdaptor+<>c__DisplayClass12_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.ChildCollectionValidatorAdaptor+<>c__DisplayClass15_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.ChildCollectionValidatorAdaptor+<>c__DisplayClass15_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.ChildCollectionValidatorAdaptor+<>c__DisplayClass16_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.IIndexedCollectionItem 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.ChildValidatorAdaptor+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.ChildValidatorAdaptor+<>c__DisplayClass8_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.CustomValidator`1+<>c__DisplayClass5_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.CustomValidator`1+<>c__DisplayClass6_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.CustomValidator`1+<ValidateAsync>d__8 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.DelegatingValidator+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.DelegatingValidator+<ValidateAsync>d__17 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.IDelegatingValidator 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.IEmailValidator 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.IEmptyValidator 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.IBetweenValidator 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.IPropertyValidator 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.MaximumLengthValidator+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.MinimumLengthValidator+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.ILengthValidator 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.NoopPropertyValidator+<ValidateAsync>d__9 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.INotEmptyValidator 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.INotNullValidator 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.INullValidator 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.PredicateValidator+Predicate 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.IPredicateValidator 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.PropertyValidator+<>c__DisplayClass20_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.PropertyValidator+<IsValidAsync>d__22 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.PropertyValidatorContext+<>c__DisplayClass24_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.PropertyValidatorContext+<>c__DisplayClass25_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.RegularExpressionValidator+<>c__DisplayClass2_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.RegularExpressionValidator+<>c__DisplayClass3_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.RegularExpressionValidator+<>c__DisplayClass4_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.RegularExpressionValidator+<>c__DisplayClass5_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.RegularExpressionValidator+<>c__DisplayClass7_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Validators.IRegularExpressionValidator 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.TestHelper.ITestPropertyChain`1 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.TestHelper.IValidationResultTester 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.TestHelper.TestPropertyChain`2 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.TestHelper.ValidationResultTester`2 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.TestHelper.ValidationTestExtension+<>c__4`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.TestHelper.ValidationTestExtension+<>c__DisplayClass10_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.TestHelper.ValidationTestExtension+<>c__DisplayClass11_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.TestHelper.ValidationTestExtension+<>c__DisplayClass12_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.TestHelper.ValidationTestExtension+<>c__DisplayClass4_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Results.ValidationResult+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.CollectionPropertyRule`1+<>c__DisplayClass2_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.DelegateValidator`1 生成填充码: 类型已过时。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.Extensions+<>c__DisplayClass10_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.Extensions+<>c__DisplayClass11_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.Extensions+<>c__DisplayClass12_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.Extensions+<>c__DisplayClass13_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.Extensions+<>c__DisplayClass14_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.Extensions+<>c__DisplayClass15_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.Extensions+<>c__DisplayClass16_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.Extensions+<>c__DisplayClass9_0`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.IConfigurable`2 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.AccessorCache`1+Key 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.IValidatorSelector 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.MemberNameValidatorSelector+<>c__DisplayClass4_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.PropertyChain+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.PropertyRule+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.PropertyRule+<>c__41`2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.PropertyRule+<>c__DisplayClass37_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.PropertyRule+<>c__DisplayClass40_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.PropertyRule+<>c__DisplayClass45_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.PropertyRule+<>c__DisplayClass61_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.PropertyRule+<>c__DisplayClass61_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.PropertyRule+<>c__DisplayClass62_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.PropertyRule+<Validate>d__60 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.IncludeRule+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.RuleBuilder`2+<>c__DisplayClass6_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Internal.TrackingCollection`1+EventDisposable 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.IResourceAccessorBuilder 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.BackwardsCompatFormatArgStringSource 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.ILanguageManager 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.IStringSource 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.IContextAwareStringSource 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.Language 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.GenericLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.ChineseSimplifiedLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.CroatianLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.CzechLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.DanishLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.DutchLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.EnglishLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.FinnishLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.FrenchLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.GeorgianLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.GermanLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.HindiLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.ItalianLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.KoreanLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.MacedonianLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.PersianLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.PolishLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.PortugueseLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.RomanianLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.RussianLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.SpanishLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.SwedishLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.TurkishLanguage 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.ContextAwareLazyStringSource 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.FluentValidation.Resources.OverridableLocalizedStringSource 生成填充码: 类型已过时。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Configuration.AppSettings+ConfigurationManagerWrapper 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Configuration.ParsingStrategyDelegate 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Configuration.AppSettingsBase+<>c__DisplayClass15_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Configuration.AppSettingsStrategy+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Configuration.DictionarySettings+DictionaryWrapper 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Configuration.EnvironmentVariableSettings+EnvironmentSettingsWrapper 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Configuration.ISettings 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Configuration.ISettingsWriter 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Configuration.MultiAppSettings+MultiSettingsWrapper 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Caching.CacheClientWithPrefix+<>c__10`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Caching.MemoryCacheClient+CacheEntry 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Caching.MultiCacheClient+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Caching.MultiCacheClient+<>c__DisplayClass10_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Caching.MultiCacheClient+<>c__DisplayClass11_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Caching.MultiCacheClient+<>c__DisplayClass12_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Caching.MultiCacheClient+<>c__DisplayClass13_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Caching.MultiCacheClient+<>c__DisplayClass14_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Caching.MultiCacheClient+<>c__DisplayClass15_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Caching.MultiCacheClient+<>c__DisplayClass3_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Caching.MultiCacheClient+<>c__DisplayClass4_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Caching.MultiCacheClient+<>c__DisplayClass5_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Caching.MultiCacheClient+<>c__DisplayClass6_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Caching.MultiCacheClient+<>c__DisplayClass7_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Caching.MultiCacheClient+<>c__DisplayClass8_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Caching.MultiCacheClient+<>c__DisplayClass9_0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.IManageApiKeys 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.CreateApiKeyDelegate 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.ApiKeyAuthEvents 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.GetApiKeysService+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.GetApiKeysService+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.RegenerateApiKeysService+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.RegenerateApiKeysService+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.AspNetWindowsAuthProvider+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.ValidateFn 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.AuthenticateService+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.AuthenticateService+<>c__DisplayClass36_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.IAuthEvents 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.MultiAuthEvents+<>c__DisplayClass5_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.MultiAuthEvents+<>c__DisplayClass6_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.MultiAuthEvents+<>c__DisplayClass7_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.MultiAuthEvents+<>c__DisplayClass8_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.AuthMetadataProvider+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.AuthMetadataProvider+<>c__DisplayClass10_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.IAuthMetadataProvider 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.AuthProvider+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.AuthProvider+<>c__DisplayClass49_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.CredentialsAuthProvider+<>c__DisplayClass18_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.CredentialsAuthProvider+CredentialsAuthValidator 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.CredentialsAuthProvider+PrivateAuthValidator 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.DigestAuthProvider+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.DigestAuthProvider+<>c__DisplayClass15_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.IAuthHttpGateway 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.AuthHttpGateway+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.IAuthProvider 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.IOAuthProvider 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.IAuthWithRequest 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.IAuthResponseFilter 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.IUserSessionSource 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.IAuthRepository 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.IUserAuthRepository 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.ICustomUserAuth 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.IManageRoles 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.IAuthSession 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.IWebSudoAuthSession 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.InMemoryAuthRepository+InMemoryClientFacade 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.InMemoryAuthRepository+InMemoryManagerFacade 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.InMemoryAuthRepository+TypedData`1 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.IRedisClientManagerFacade 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.IClearable 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.IRedisClientFacade 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.ITypedRedisClientFacade`1 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.RedisClientManagerFacade+RedisClientFacade 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.JwtAuthProvider+<>c__DisplayClass18_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.JwtAuthProvider+<>c__DisplayClass9_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.JwtAuthProvider+<>c__DisplayClass9_1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.JwtAuthProvider+<>c__DisplayClass9_2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.JwtAuthProviderReader+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.OAuthAuthorizer+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.OAuthAuthorizer+<>c__DisplayClass16_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.OAuthAuthorizer+<>c__DisplayClass19_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.OAuthAuthorizer+<>c__DisplayClass20_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.OAuthAuthorizer+<>c__DisplayClass21_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.OdnoklassnikiAuthProvider+<>c__DisplayClass20_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.Pbkdf2DeriveKeyDelegate 生成填充码: 类型是一个委托。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.KeyDerivationPrf 生成填充码: 类型是一个枚举。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.IPbkdf2Provider 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.ManagedPbkdf2Provider 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.CryptoUtil 生成填充码: 类型对 exported or assembly(ServiceStack.Fakes) 不可见。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.RedisAuthRepository`2+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.RegistrationValidator+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.IHashProvider 生成填充码: 类型是一个接口。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.TwitterAuthProvider+<>c__DisplayClass4_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.UserAuthRepositoryExtensions+<>c__DisplayClass0_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.UserAuthRepositoryExtensions+<>c__DisplayClass1_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.VkAuthProvider+<>c__DisplayClass26_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.YammerAuthProvider+<>c 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Auth.YammerAuthProvider+<>c__DisplayClass15_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 ServiceStack.Admin.RequestLogsService+<>c__DisplayClass5_0 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Projects\AOPDemo\AOPDemo\Fakes\ServiceStack.fakes : warning : 无法为 <PrivateImplementationDetails> 生成填充码: 类型不受支持，因为存在内部限制。
